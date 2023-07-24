@@ -1,0 +1,15 @@
+C:\Users\Philani\source\repos\Formative1\Formative1\bin\Debug\net6.0\Formative1.exe
+C:\Users\Philani\source\repos\Formative1\Formative1\bin\Debug\net6.0\Formative1.deps.json
+C:\Users\Philani\source\repos\Formative1\Formative1\bin\Debug\net6.0\Formative1.runtimeconfig.json
+C:\Users\Philani\source\repos\Formative1\Formative1\bin\Debug\net6.0\Formative1.dll
+C:\Users\Philani\source\repos\Formative1\Formative1\bin\Debug\net6.0\Formative1.pdb
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\Formative1.csproj.AssemblyReference.cache
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\Formative1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\Formative1.AssemblyInfoInputs.cache
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\Formative1.AssemblyInfo.cs
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\Formative1.csproj.CoreCompileInputs.cache
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\Formative1.dll
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\refint\Formative1.dll
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\Formative1.pdb
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\Formative1.genruntimeconfig.cache
+C:\Users\Philani\source\repos\Formative1\Formative1\obj\Debug\net6.0\ref\Formative1.dll
